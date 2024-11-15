@@ -398,7 +398,7 @@ footer {
     height: 5%; 
     border-radius: 8px; 
 }
-```
+
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/3542a78b-d923-4535-9c5b-a9e070939a71)
