@@ -256,8 +256,8 @@ Administation.html
             </div>
         </main>
         <footer>
-            <p>ETTA SUPRAJA</p>
-            <p>212223220022</p>
+            <p>Sai Sruthi</p>
+            <p>212223100061</p>
         </footer>
 
     </div>
