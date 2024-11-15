@@ -433,14 +433,16 @@ footer {
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-11-11 at 16 12 12_f1432025](https://github.com/user-attachments/assets/b289daea-dbb3-4fb1-ab3d-12f4f4f202d7)
+![image](https://github.com/user-attachments/assets/c8e6c5e4-a8fc-4e6f-a4dc-960eb3b94506)
+
+![image](https://github.com/user-attachments/assets/3441a3f9-f918-4f07-90c0-a43c5093576c)
+
+![image](https://github.com/user-attachments/assets/3ffb5456-d631-47a3-a9ca-d04fb36780ff)
 
 
-![WhatsApp Image 2024-11-11 at 16 12 11_9d85ebf2](https://github.com/user-attachments/assets/e66eb283-783f-4f42-9680-0c5a446227bc)
+![image](https://github.com/user-attachments/assets/fdd53f2e-578d-412a-95cb-056296621feb)
 
-![WhatsApp Image 2024-11-11 at 16 12 06_bb9afd6e](https://github.com/user-attachments/assets/77782889-4003-4726-8123-a29551a8c07c)
 
-![WhatsApp Image 2024-11-11 at 16 12 22_61b1097f](https://github.com/user-attachments/assets/b75fe74f-0691-41e4-8459-72f9b1b19416)
 
 
 ## RESULT:
