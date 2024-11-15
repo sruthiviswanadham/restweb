@@ -30,18 +30,19 @@ Publish the website in the given URL.
 ## PROGRAM:
 Index.html
 ```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Restaurant</title>
+    <title>Menu</title>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Lan Delight Restaurent</h1>
+            <h1>Sangeetha Restaurant</h1>
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -52,39 +53,68 @@ Index.html
             </nav>
         </header>
         <main>
-            <h2>Discover Delicious Meals!</h2>
+            <h2>Delicious Food Items</h2>
             <section class="menu-items">
                 <div class="food-item">
-                    <img src="images/pasta.jpeg" alt="Delicious Pasta">
-                    <h4>Italian Pastas</h4>
-                    <p>A creamy delight with fresh herbs and parmesan cheese.</p>
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\FCFF94E3A5FC07B69E42A97584A5B761\WhatsApp Image 2024-11-07 at 10.15.41_8efe4d5f.jpg" alt="chicken briyani and chicken leg pieces">
+                    <h4> Chicken biryani and chicken leg pieces</h4>
                 </div>
                 <div class="food-item">
-                    <img src="images/burger.jpeg" alt="Juicy Burger">
-                    <h4>Burgers</h4>
-                    <p>Juicy beef patty with lettuce, tomato, and our special sauce.</p>
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\3D0E9613972282A4E53F300F804C1B4F\WhatsApp Image 2024-11-07 at 10.19.10_136a6214.jpg" alt="Ice cream">
+                    <h4>Ice cream</h4>
                 </div>
                 <div class="food-item">
-                    <img src="images/salad.jpeg" alt="Fresh Salad">
-                    <h4>Garden Salads</h4>
-                    <p>A mix of fresh greens and seasonal vegetables.</p>
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\37AFE5DE7AFBFC1D2C5B27FC33D82A5F\WhatsApp Image 2024-11-07 at 10.21.03_5c77414a.jpg" alt="veg soup">
+                    <h4>veg soup</h4>
                 </div>
                 <div class="food-item">
-                    <img src="images/dessert.jpeg" alt="Dessert">
-                    <h4>Chocolate Cakes</h4>
-                    <p>Rich and moist chocolate cake with a creamy frosting.</p>
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\A1810B42DCC83A4A1BA801293085AEC7\WhatsApp Image 2024-11-07 at 10.26.02_9098e7c2.jpg" alt="Mutton Briyani">
+                    <h4>Mutton Biryani</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\B4CF1000EE57D756B58DC7C8A5936C26\WhatsApp Image 2024-11-07 at 10.27.28_7cea1635.jpg" alt="sweets">
+                    <h4>Sweets</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\3F948F238590CB0FD1406956ECEC3200\WhatsApp Image 2024-11-07 at 10.29.56_168cf3f2.jpg" alt=" Veg Caesar Salad">
+                    <h4>Veg Caesar Salad</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\3A647FF6D4D2328A51836AE6AB9600EB\WhatsApp Image 2024-11-07 at 10.32.26_5652aab1.jpg" alt="Cheeseburger">
+                    <h4>Cheeseburger</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\90A9BEEC2356E3613F667E20704C953D\WhatsApp Image 2024-11-07 at 10.34.21_27eba420.jpg" alt="Chicken Tikka Masala">
+                    <h4>Chicken Tikka Masala</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\5824AA83D1AE73B56A67273714B57843\WhatsApp Image 2024-11-07 at 10.36.05_c690cb4a.jpg" alt="Mutton Soup">
+                    <h4>Mutton Soup</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\E45E346BEBAC5FB8DB1D1C63F751F3D8\WhatsApp Image 2024-11-07 at 10.37.15_58a2d19a.jpg" alt="Paneer Kurkure">
+                    <h4>Paneer Kurkure</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\B8B8C345F81F0479515A0DA0ADD9A159\WhatsApp Image 2024-11-07 at 10.39.09_abc2dbd2.jpg" alt="Tortillas">
+                    <h4>Tortillas</h4>
+                </div>
+                <div class="food-item">
+                    <img src="c:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\E353B610E9CE20F963B4CCA5DA565605\WhatsApp Image 2024-11-07 at 10.40.30_d28bf279.jpg" alt="Chocolate Lava Cake">
+                    <h4>Chocolate Lava Cake</h4>
                 </div>
             </section>
         </main>
         
-        
         <footer>
-            <p>Sai Sruthi.V</p>
+            <p>Sai Sruthi</p>
             <p>212223100061</p>
         </footer>
-    </div>
+    <div>
+    
 </body>
 </html>
+
 ```
 Menu.html
 ```
@@ -164,15 +194,16 @@ Menu.html
         </main>
         
         <footer>
-            <p>Sai Sruthi.V</p>
+            <p>Sai Sruthi</p>
             <p>212223100061</p>
         </footer>
     <div>
     
 </body>
 </html>
+
 ```
-Administration.html
+Administation.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -225,18 +256,17 @@ Administration.html
             </div>
         </main>
         <footer>
-            <p>Sai Sruthi.V</p>
-            <p>212223100061</p>
+            <p>ETTA SUPRAJA</p>
+            <p>212223220022</p>
         </footer>
 
     </div>
     
 </body>
 </html>
+
 ```
 contact.html
-```
-style.css
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -267,16 +297,17 @@ style.css
             <p>Open Hours: 6–11 pm</p>
         </main>
         <footer>
-            <p>ETTA SUPRAJA</p>
-            <p>212223220022</p>
+            <p>Sai Sruthi</p>
+            <p>212223100061</p>
         </footer>
 
     </div>
     
 </body>
 </html>
+
 ```
-Style.css
+style.css
 ```
 * {
     box-sizing: border-box;
@@ -398,13 +429,18 @@ footer {
     height: 5%; 
     border-radius: 8px; 
 }
-
+```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3542a78b-d923-4535-9c5b-a9e070939a71)
-![image](https://github.com/user-attachments/assets/4cb7d3d5-340e-4d97-9c67-c9926b8dc946)
-![image](https://github.com/user-attachments/assets/693bcc3c-c14c-415a-ac60-9bbd050c4ce0)
-![image](https://github.com/user-attachments/assets/afc1718b-a00f-4c23-8174-c9fc36bd2744)
+
+![WhatsApp Image 2024-11-11 at 16 12 12_f1432025](https://github.com/user-attachments/assets/b289daea-dbb3-4fb1-ab3d-12f4f4f202d7)
+
+
+![WhatsApp Image 2024-11-11 at 16 12 11_9d85ebf2](https://github.com/user-attachments/assets/e66eb283-783f-4f42-9680-0c5a446227bc)
+
+![WhatsApp Image 2024-11-11 at 16 12 06_bb9afd6e](https://github.com/user-attachments/assets/77782889-4003-4726-8123-a29551a8c07c)
+
+![WhatsApp Image 2024-11-11 at 16 12 22_61b1097f](https://github.com/user-attachments/assets/b75fe74f-0691-41e4-8459-72f9b1b19416)
 
 
 ## RESULT:
